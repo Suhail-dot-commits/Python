@@ -1,0 +1,4 @@
+Python 3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> a=int(input("enter first number"))
+enter first number2
